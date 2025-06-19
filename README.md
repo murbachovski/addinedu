@@ -1,2 +1,2 @@
 # addinedu
-Python, FastAPI
+Python, FastAPI, HuggingFace, YOLO, OpenAPI

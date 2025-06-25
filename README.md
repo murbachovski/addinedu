@@ -9,10 +9,10 @@
 6. OpenAPI
 7. Transformers
 8. LMStudio
-8. YOLO With GPT
-9. CLIP
-10. BLIP
-11. BERT
+9. YOLO With GPT
+10. CLIP
+11. BLIP
+12. BERT
 ```
 
 # OpenAPI

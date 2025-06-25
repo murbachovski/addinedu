@@ -12,6 +12,7 @@
 8. YOLO With GPT
 9. CLIP
 10. BLIP
+11. BERT
 ```
 
 # OpenAPI

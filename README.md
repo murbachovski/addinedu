@@ -11,6 +11,7 @@
 8. LMStudio
 8. YOLO With GPT
 9. CLIP
+10. BLIP
 ```
 
 # OpenAPI

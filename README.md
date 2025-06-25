@@ -13,6 +13,7 @@
 10. CLIP
 11. BLIP
 12. BERT
+12. OCR
 ```
 
 # OpenAPI

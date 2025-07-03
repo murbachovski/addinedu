@@ -21,3 +21,8 @@
 key = "db5c00dc1fce45c49049bff225a0fea6"
 url_cctv = f"https://openapi.its.go.kr:9443/cctvInfo?apiKey={key}&type={Type}&cctvType=1&minX={minX}&maxX={maxX}&minY={minY}&maxY={maxY}&getType={getType}"
 ```
+
+# OpenAPI 설명
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e80f6a1-f7c2-47ee-b162-a59e9cc888fb" width="300">
+</p>

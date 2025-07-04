@@ -31,3 +31,27 @@ url_cctv = f"https://openapi.its.go.kr:9443/cctvInfo?apiKey={key}&type={Type}&cc
 ```
 https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html
 ```
+
+# Anaconda 환경 셋팅
+가상환경 생성
+```
+conda create -n "가상환경 이름" python=3.9
+=>  conda create -n py39 python=3.9
+```
+
+가상환경 실행
+```
+conda activate "가상환경 이름"
+conda activate py39
+```
+
+가상환경 종료
+```
+conda deactivate 
+```
+
+라이브러리 설치
+```
+pip install "설치할 라이브러리"
+pip install ultralytics
+```

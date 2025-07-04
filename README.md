@@ -27,7 +27,7 @@ url_cctv = f"https://openapi.its.go.kr:9443/cctvInfo?apiKey={key}&type={Type}&cc
   <img src="https://github.com/user-attachments/assets/9e80f6a1-f7c2-47ee-b162-a59e9cc888fb" width="1000">
 </p>
 
-# OCR 이미지 경로
+# OCR 이미지 다운로드 경로
 ```
 https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html
 ```

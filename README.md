@@ -33,13 +33,13 @@ https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html
 가상환경 생성
 ```
 conda create -n "가상환경 이름" python=3.9
-=>  conda create -n py39 python=3.9
+$  conda create -n py39 python=3.9
 ```
 
 가상환경 실행
 ```
 conda activate "가상환경 이름"
-conda activate py39
+$  conda activate py39
 ```
 
 가상환경 종료

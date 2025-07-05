@@ -62,8 +62,8 @@ https://youtu.be/lPTJzA8KroA?si=S8xaZJZMuYuSAkka
 ```
 
 OpenAPI
+[ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
 ```
-https://its.go.kr/opendata/
 1. 인증키 신청
 2. 인증키 발급
 3. kdt/v05_openapi/_03_api_yolo.py 파일 참고

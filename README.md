@@ -30,7 +30,7 @@ https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html
 ```
 
 # Anaconda 환경 셋팅
-가상환경 생성
+## 가상환경 생성
 ```
 conda create -n "가상환경 이름" python=3.9
 $  conda create -n py39 python=3.9

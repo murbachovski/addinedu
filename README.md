@@ -67,3 +67,13 @@ OpenAPI<br>
 3. kdt/v05_openapi/_03_api_yolo.py 코드 확인
 4. 발급 받은 인증키 넣어준 뒤 실행
 ```
+
+HuggingFace<br>
+[허깅페이스](https://huggingface.co/)<br>
+```
+1. 회원가입
+2. 이메일 인증
+3. 인증키 발급
+4. 원하는 모델 검색
+5. 인증키 적용
+```

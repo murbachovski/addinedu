@@ -54,12 +54,12 @@ pip install ultralytics
 ```
 
 # 강의 내용 참고 자료
-FastAPI<br>
+## FastAPI<br>
 [FastAPI_1](https://youtu.be/Iub7-ZhEScw?si=_5V9Zuml0qgniJVd)<br>
 [FastAPI_2](https://youtu.be/i87EnmzMNnU?si=_SGrf7xoPmLcEbWM)<br>
 [FastAPI_3](https://youtu.be/lPTJzA8KroA?si=S8xaZJZMuYuSAkka)<br>
 
-OpenAPI<br>
+## OpenAPI<br>
 [ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
 ```
 1. 인증키 신청

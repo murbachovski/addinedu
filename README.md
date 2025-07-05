@@ -60,3 +60,11 @@ https://youtu.be/Iub7-ZhEScw?si=_5V9Zuml0qgniJVd
 https://youtu.be/i87EnmzMNnU?si=_SGrf7xoPmLcEbWM
 https://youtu.be/lPTJzA8KroA?si=S8xaZJZMuYuSAkka
 ```
+
+OpenAPI
+```
+https://its.go.kr/opendata/
+1. 인증키 신청
+2. 인증키 발급
+3. kdt/v05_openapi/_03_api_yolo.py 폴더 참고하여 key 값 넣어준 뒤 실행
+```

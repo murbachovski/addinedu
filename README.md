@@ -76,4 +76,5 @@ pip install ultralytics
 3. 인증키 발급
 4. 원하는 모델 검색
 5. 인증키 적용
+6. 코드 실행
 ```

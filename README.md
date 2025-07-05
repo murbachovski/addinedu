@@ -52,3 +52,11 @@ conda deactivate
 pip install "설치할 라이브러리"
 pip install ultralytics
 ```
+
+# 강의 내용 참고 자료
+FastAPI
+```
+https://youtu.be/Iub7-ZhEScw?si=_5V9Zuml0qgniJVd
+https://youtu.be/i87EnmzMNnU?si=_SGrf7xoPmLcEbWM
+https://youtu.be/lPTJzA8KroA?si=S8xaZJZMuYuSAkka
+```

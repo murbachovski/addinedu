@@ -68,7 +68,7 @@ OpenAPI<br>
 4. 발급 받은 인증키 넣어준 뒤 실행
 ```
 
-HuggingFace<br>
+## HuggingFace<br>
 [허깅페이스](https://huggingface.co/)<br>
 ```
 1. 회원가입

@@ -66,5 +66,6 @@ OpenAPI
 https://its.go.kr/opendata/
 1. 인증키 신청
 2. 인증키 발급
-3. kdt/v05_openapi/_03_api_yolo.py 폴더 참고하여 key 값 넣어준 뒤 실행
+3. kdt/v05_openapi/_03_api_yolo.py 파일 참고
+4. 발급 받은 인증 key 값 넣어준 뒤 실행
 ```
